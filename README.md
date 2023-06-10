@@ -1,8 +1,7 @@
 # Data-Analysis-and-Reporting-Software
-![Screenshot (652)](https://github.com/SukrutDeshmukh/Data-Analysis-and-Reporting-Software/assets/127339353/f84f8df7-26d1-4e6e-9f8e-f0a12e1f86f7)
-
 
 The software was developed for LimelightIT Research Pvt Ltd Ahmedabad, In march 2023 my role for the organization was Data Analyst.
+![Screenshot (652)](https://github.com/SukrutDeshmukh/Data-Analysis-and-Reporting-Software/assets/127339353/f84f8df7-26d1-4e6e-9f8e-f0a12e1f86f7)
 
 The code is the intellectual property of Limelight IT Research Pvt Ltd, and the individual, Sukrut Deshmukh, who worked on it has permission to share basic concepts and images related to the software created. However, the actual code cannot be shared on the GitHub due to intellectual property rights.
 
