@@ -1,6 +1,6 @@
 # Data-Analysis-and-Reporting-Software
+![Screenshot (652)](https://github.com/SukrutDeshmukh/Data-Analysis-and-Reporting-Software/assets/127339353/f84f8df7-26d1-4e6e-9f8e-f0a12e1f86f7)
 
-![Screenshot (652)](https://github.com/SukrutDeshmukh/Data-Analysis-and-Reporting-Software/assets/127339353/4b834a09-dafe-4ee3-858c-484f0bcea6f)
 
 The software was developed for LimelightIT Research Pvt Ltd Ahmedabad, In march 2023 my role for the organization was Data Analyst.
 
