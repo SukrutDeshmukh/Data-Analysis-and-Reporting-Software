@@ -2,9 +2,11 @@
 
 The software was developed for LimelightIT Research Pvt Ltd Ahmedabad, In march 2023 my role for the organization was Data Analyst.
 
-The code is the intellectual property of Limelight IT Software Pvt Ltd, and the individual, Sukrut Deshmukh, who worked on it has permission to share basic concepts and images related to the software created. However, the actual code cannot be shared on the GitHub due to intellectual property rights.
+The code is the intellectual property of Limelight IT Research Pvt Ltd, and the individual, Sukrut Deshmukh, who worked on it has permission to share basic concepts and images related to the software created. However, the actual code cannot be shared on the GitHub due to intellectual property rights.
 
 Company Information:
+
+Limelight IT Research Pvt Ltd is a startup based in Ahmedabad that primarily focuses on providing Industrial IoT solutions. The company has a team size of approximately 10-15 employees.
 
 Limelight IT began offering Industrial IoT solutions in the last quarter of 2021. Initially, their focus was on providing a basic dashboard connected to Embedded IoT devices, which were integrated with industrial machines using various sensors. The initial period primarily involved covering basic machines like Hydraulic press and providing real-time monitoring features on the dashboard. After conducting research on the Ahmedabad market, the company decided to focus on the Pipe Industry. This marked the beginning of their journey in creating solutions for Drawbench and Pipe mill machines. As the project progressed, the complexity of algorithms increased, and Data Analytics became a crucial component of their solutions.
 
