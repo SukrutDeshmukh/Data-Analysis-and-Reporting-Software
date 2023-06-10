@@ -4,4 +4,5 @@ The software was developed for LimelightIT Research Pvt Ltd Ahmedabad, In march 
 
 The code is the intellectual property of Limelight IT Software Pvt Ltd, and the individual, Sukrut Deshmukh, who worked on it has permission to share basic concepts and images related to the software created. However, the actual code cannot be shared on their GitHub due to intellectual property rights.
 
+The below attached is the certification received by Limelight IT after successful completion of the software which was planned according to company's standards.
 ![Sukrut_Deshmukh_page-0001](https://github.com/SukrutDeshmukh/Data-Analysis-and-Reporting-Software/assets/127339353/e45ddb81-8a66-4fc9-a3b1-253c084306e8)
