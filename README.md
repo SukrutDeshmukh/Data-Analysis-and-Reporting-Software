@@ -72,7 +72,21 @@ Images of Feature:
 
 Process : 
 
+![Screenshot (664)](https://github.com/SukrutDeshmukh/Data-Analysis-and-Reporting-Software/assets/127339353/d2cf246e-1842-437a-885f-11f0b7535c14)
+
+
 Images of Feature:
+1) Topic Input Section & Data display:
+
+![Screenshot (667)](https://github.com/SukrutDeshmukh/Data-Analysis-and-Reporting-Software/assets/127339353/a6428dde-5791-4690-a3b9-6fd6ed0ff1bf)
+
+2) Real Time Graph
+
+![Screenshot (666)](https://github.com/SukrutDeshmukh/Data-Analysis-and-Reporting-Software/assets/127339353/4f072c5a-3305-47ca-9b91-f2ba378eac46)
+
+3) Pdf Report:
+
+![Screenshot (668)](https://github.com/SukrutDeshmukh/Data-Analysis-and-Reporting-Software/assets/127339353/23a5b5b1-bb73-4324-a169-de34d727403f)
 
 
 
