@@ -47,15 +47,16 @@ Images of Feature:
 
 1) File Input Section:
 
-![Screenshot (552)](https://github.com/SukrutDeshmukh/Data-Analysis-and-Reporting-Software/assets/127339353/b5999128-f7c1-488a-a8ee-64621dd7ed1a)
+![Screenshot (552)](https://github.com/SukrutDeshmukh/Data-Analysis-and-Reporting-Software/assets/127339353/b80a0c4c-9b5c-4fa2-af19-be36f88c7c07)
+
 
 2) Instant Data Visuals:
 
-![Screenshot (553)](https://github.com/SukrutDeshmukh/Data-Analysis-and-Reporting-Software/assets/127339353/bf6ef566-4ded-44c2-8205-6e4d0b599d53)
+![Screenshot (553)](https://github.com/SukrutDeshmukh/Data-Analysis-and-Reporting-Software/assets/127339353/18011df2-f18e-4853-b17a-2dfb9a670101)
 
 3) Automated Excel:
 
-![Screenshot (560)](https://github.com/SukrutDeshmukh/Data-Analysis-and-Reporting-Software/assets/127339353/74a77345-87eb-41cb-865e-dbc06b632d8e)
+![Screenshot (560)](https://github.com/SukrutDeshmukh/Data-Analysis-and-Reporting-Software/assets/127339353/ca03555a-5824-4b42-9cfd-4de7f49841ba)
 
 
 # Real Time Analysis Feature :
