@@ -16,7 +16,7 @@ The software is built using the Python programming language, utilizing Tkinter f
 
 # Python Libraries Used:
 
-1.Tkinter: A standard Python library for creating graphical user interfaces (GUIs).
+1.Tkinter: A standard Python library for creating graphical user interfaces (GUIs). \
 2.Pillow: A powerful library for image processing and manipulation. It provides support for tasks like opening, saving, and manipulating image files.
 3.fitz: A Python library for working with PDF files. It allows you to read, write, and modify PDF documents.
 4.paho-mqtt: A client library for MQTT (Message Queuing Telemetry Transport) protocol. It enables communication with MQTT brokers to publish and subscribe to messages.
