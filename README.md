@@ -72,8 +72,7 @@ Images of Feature:
 
 Process : 
 
-![Screenshot (664)](https://github.com/SukrutDeshmukh/Data-Analysis-and-Reporting-Software/assets/127339353/d2cf246e-1842-437a-885f-11f0b7535c14)
-
+![Screenshot (669)](https://github.com/SukrutDeshmukh/Data-Analysis-and-Reporting-Software/assets/127339353/91ebd39b-6ea3-4f76-a880-91e3d6f510af)
 
 Images of Feature:
 1) Topic Input Section & Data display:
@@ -87,8 +86,6 @@ Images of Feature:
 3) Pdf Report:
 
 ![Screenshot (668)](https://github.com/SukrutDeshmukh/Data-Analysis-and-Reporting-Software/assets/127339353/23a5b5b1-bb73-4324-a169-de34d727403f)
-
-
 
 
 The below attached is the certification received by Limelight IT after successful completion of the software which was planned according to company's standards.
