@@ -12,7 +12,7 @@ In response to the increasing number of projects and Industrial IoT device requi
 
 # Software Description: 
 
-The software is built using the Python programming language, utilizing Tkinter for GUI development. It incorporates key libraries such as Pandas and NumPy for data manipulation and calculations. The software leverages Matplotlib, integrated with Tkinter, for data visualization. Additionally, it utilizes Openpyxl and Pdfkit for generating reports in PDF and Excel formats respectively. To facilitate real-time data reception and communication with IoT devices, the software implements the Paho-MQTT library.
+The software is built using the Python programming language, utilizing Tkinter for GUI development. It incorporates key libraries such as Pandas and NumPy for data manipulation and calculations. The software leverages Matplotlib, integrated with Tkinter, for data visualization. Additionally, it utilizes Openpyxl and Pdfkit for generating reports in PDF and Excel formats respectively. To facilitate real-time data reception and communication with IoT devices, the software uses the Paho-MQTT library.
 
 # Python Libraries Used:
 
@@ -34,6 +34,10 @@ The software is built using the Python programming language, utilizing Tkinter f
 16.oauth2client: A library that provides OAuth 2.0 client functionality. It allows Python applications to authenticate with various services using OAuth 2.0, including Google APIs.\
 
 # File Analysis Feature 
+
+
+
+
 
 
 
