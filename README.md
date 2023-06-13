@@ -43,15 +43,35 @@ Process:
 
 ![Screenshot (662)](https://github.com/SukrutDeshmukh/Data-Analysis-and-Reporting-Software/assets/127339353/ea0b9688-c967-426e-a770-eb65254c8f09)
 
+Images of Feature:
+
+1) File Input Section:
+
+![Screenshot (552)](https://github.com/SukrutDeshmukh/Data-Analysis-and-Reporting-Software/assets/127339353/b5999128-f7c1-488a-a8ee-64621dd7ed1a)
+
+2) Instant Data Visuals:
+
+![Screenshot (553)](https://github.com/SukrutDeshmukh/Data-Analysis-and-Reporting-Software/assets/127339353/bf6ef566-4ded-44c2-8205-6e4d0b599d53)
+
+3) Automated Excel:
+
+![Screenshot (560)](https://github.com/SukrutDeshmukh/Data-Analysis-and-Reporting-Software/assets/127339353/74a77345-87eb-41cb-865e-dbc06b632d8e)
 
 
+# Real Time Analysis Feature :
+
+1) Seamless connectivity with IoT devices across multiple industries, simplifying the integration process.
+
+2) Real-time statistics are provided for device calibration and performance testing, enabling users to monitor and analyze device behavior in real-time.
+
+3) The software includes a real-time data visualization feature that allows users to select specific parameters of interest from the data. It also provides combined line graphs for effective visual analysis and decision-making.
+
+4) Conveniently save different MQTT topics within the software, saving time and effort when inputting topic information. Additionally, a notepad feature is available for users to store additional topics and industry references, facilitating easy access and observation of connected devices.
 
 
+Process : 
 
-
-
-
-
+Images of Feature:
 
 
 
