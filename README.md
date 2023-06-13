@@ -4,7 +4,7 @@ The software was developed for LimelightIT Research Pvt Ltd Ahmedabad, In march 
 
 ![Screenshot (652)](https://github.com/SukrutDeshmukh/Data-Analysis-and-Reporting-Software/assets/127339353/f84f8df7-26d1-4e6e-9f8e-f0a12e1f86f7)
 
-The code is the intellectual property of Limelight IT Research Pvt Ltd, and the individual, Sukrut Deshmukh, who worked on it has permission to share basic concepts and images related to the software created. However, the actual code cannot be shared on the GitHub due to intellectual property rights.
+The code is the intellectual property of Limelight IT Research Pvt Ltd, and the individual, Sukrut Deshmukh, who worked on entire software development process  has permission to share basic concepts and images related to the software created. However, the actual code cannot be shared on the GitHub due to intellectual property rights.
 
 # Need of Software: 
 
@@ -33,7 +33,15 @@ The software is built using the Python programming language, utilizing Tkinter f
 15.gspread: A library for accessing and modifying Google Sheets using the Google Sheets API. It enables programmatic interaction with Google Sheets, including reading and writing data.\
 16.oauth2client: A library that provides OAuth 2.0 client functionality. It allows Python applications to authenticate with various services using OAuth 2.0, including Google APIs.\
 
-# File Analysis Feature 
+# File Analysis Feature :
+
+1) The software enables excel file-based analysis for more than 10+ datasets structured according to company standards.
+2) Provides instant data visualizations and text reports from the aforementioned files, facilitating quick insights extraction.
+3) Offers an automated excel report generation option, which includes essential information and charts, allowing users to perform further detailed analysis within the generated excel file.
+
+Process:
+
+![Screenshot (662)](https://github.com/SukrutDeshmukh/Data-Analysis-and-Reporting-Software/assets/127339353/ea0b9688-c967-426e-a770-eb65254c8f09)
 
 
 
