@@ -17,21 +17,21 @@ The software is built using the Python programming language, utilizing Tkinter f
 # Python Libraries Used:
 
 1.Tkinter: A standard Python library for creating graphical user interfaces (GUIs). \
-2.Pillow: A powerful library for image processing and manipulation. It provides support for tasks like opening, saving, and manipulating image files.
-3.fitz: A Python library for working with PDF files. It allows you to read, write, and modify PDF documents.
-4.paho-mqtt: A client library for MQTT (Message Queuing Telemetry Transport) protocol. It enables communication with MQTT brokers to publish and subscribe to messages.
-5.pdfkit: A library for converting HTML or plain text files to PDF format. It uses external tools like wkhtmltopdf or Prince to perform the conversion.
-6.json: A built-in library for working with JSON (JavaScript Object Notation) data. It provides functions for encoding and decoding JSON strings.
-7.time: A built-in library that provides various functions for working with time, including measuring elapsed time, handling dates and times, and formatting time values.
-8.threading: A built-in library that allows you to create and manage threads in Python. It provides tools for multi-threading, enabling concurrent execution of multiple tasks.
-9.matplotlib: A popular library for creating 2D plots and visualizations. It provides a wide range of functionalities for generating line plots, bar charts, histograms, scatter plots, etc.
-10.pandas: A powerful data manipulation and analysis library. It provides data structures and functions for efficiently working with structured data, such as tables or CSV files.
-11.NumPy: A fundamental library for numerical computing in Python. It provides support for working with large, multi-dimensional arrays and matrices, along with a collection of mathematical functions.
-12.Statistics: A built-in library that offers statistical functions and distributions. It provides methods for calculating measures like mean, median, standard deviation, performing statistical tests, and generating random numbers.
-13.datetime: A built-in library for working with dates, times, and time intervals. It offers classes and functions to manipulate, format, and compare dates and times.
-14.openpyxl: A library for reading and writing Excel files (XLSX/XLSM/XLSB). It allows you to interact with spreadsheets, modify data, apply formatting, and create charts.
-15.gspread: A library for accessing and modifying Google Sheets using the Google Sheets API. It enables programmatic interaction with Google Sheets, including reading and writing data.
-16.oauth2client: A library that provides OAuth 2.0 client functionality. It allows Python applications to authenticate with various services using OAuth 2.0, including Google APIs.
+2.Pillow: A powerful library for image processing and manipulation. It provides support for tasks like opening, saving, and manipulating image files.\
+3.fitz: A Python library for working with PDF files. It allows you to read, write, and modify PDF documents.\
+4.paho-mqtt: A client library for MQTT (Message Queuing Telemetry Transport) protocol. It enables communication with MQTT brokers to publish and subscribe to messages.\
+5.pdfkit: A library for converting HTML or plain text files to PDF format. It uses external tools like wkhtmltopdf or Prince to perform the conversion.\
+6.json: A built-in library for working with JSON (JavaScript Object Notation) data. It provides functions for encoding and decoding JSON strings.\
+7.time: A built-in library that provides various functions for working with time, including measuring elapsed time, handling dates and times, and formatting time values.\
+8.threading: A built-in library that allows you to create and manage threads in Python. It provides tools for multi-threading, enabling concurrent execution of multiple tasks.\
+9.matplotlib: A popular library for creating 2D plots and visualizations. It provides a wide range of functionalities for generating line plots, bar charts, histograms, scatter plots, etc.\
+10.pandas: A powerful data manipulation and analysis library. It provides data structures and functions for efficiently working with structured data, such as tables or CSV files.\
+11.NumPy: A fundamental library for numerical computing in Python. It provides support for working with large, multi-dimensional arrays and matrices, along with a collection of mathematical functions.\
+12.Statistics: A built-in library that offers statistical functions and distributions. It provides methods for calculating measures like mean, median, standard deviation, performing statistical tests, and generating random numbers.\
+13.datetime: A built-in library for working with dates, times, and time intervals. It offers classes and functions to manipulate, format, and compare dates and times.\
+14.openpyxl: A library for reading and writing Excel files (XLSX/XLSM/XLSB). It allows you to interact with spreadsheets, modify data, apply formatting, and create charts.\
+15.gspread: A library for accessing and modifying Google Sheets using the Google Sheets API. It enables programmatic interaction with Google Sheets, including reading and writing data.\
+16.oauth2client: A library that provides OAuth 2.0 client functionality. It allows Python applications to authenticate with various services using OAuth 2.0, including Google APIs.\
 
 # File Analysis Feature 
 
